@@ -1,5 +1,5 @@
 # ballwars
-* This is a simple Game where your Goal is to win against your Opponent.
+*This is a simple Game where your Goal is to win against your Opponent.
 You can either play against an AI or against another Player with Bouncers that you cant disable.
 In this Game you win by scoring an amount of Goals that you can choose in the Settings Menu
 But be aware that there are Mini-Cannons that shoot at you but prioritize the Lazyball
