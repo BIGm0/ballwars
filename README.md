@@ -43,4 +43,7 @@ and you need pygame from https://www.pygame.org/download.shtml
 
 
 
-
+https://youtu.be/sYEYCHD7c9U
+https://youtu.be/VlSBZOQOHy0
+https://youtu.be/Xwc7p_WUhXg
+https://youtu.be/npc6e4J0Jgg
